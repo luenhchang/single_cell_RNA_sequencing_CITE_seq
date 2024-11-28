@@ -1,0 +1,21 @@
+# Ignore specific files
+backup.txt
+complex-heatmap.R
+Heatmap-in-R-Static-and-Interactive-Visualization.R
+push_selective_files_folders_from_local_to_Github_repository.md
+RFunction_Run-Seurat-singleCellRNAsequencing-CITEsequencing.R
+RFunction_Run-Seurat-singleCellRNAsequencing-CITEsequencing_normalise-scale.R
+RFunction_train-cell-classifier.R
+sc_RNASeq_CD8.R
+sc_RNASeq_CD8.sh
+
+# Ignore specific folders
+Garnett-pre-trained-classifiers-for-cell-types/
+references/
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+*.bak
