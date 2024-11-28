@@ -2,32 +2,9 @@
 
 #### File name: Bald-scRNAseq-HNSCC.R.ipynb
 
-#### Date created: 20210513
+#### Date created: 13-May-2021
 
-#### Programmer: Chang
-
-#### Reference
-
-[Chapter 3 Heatmap Annotations](https://jokergoo.github.io/ComplexHeatmap-reference/book/heatmap-annotations.html)
-
-[Changing R plot options in Jupyter](https://notebook.community/andrie/jupyter-notebook-samples/Changing%20R%20plot%20options%20in%20Jupyter)
-
-[Changing R plot options in Jupyter](https://notebook.community/andrie/jupyter-notebook-samples/Changing%20R%20plot%20options%20in%20Jupyter)
-
-[Using a new windows version of R in Jupyter notebooks](https://stackoverflow.com/questions/51647561/using-a-new-windows-version-of-r-in-jupyter-notebooks)
-
-[scRNAseq_Braun_etal_Immunity_Script.Rmd](https://github.com/BaldLab/2020_Braun_et_al_CD226_Immunity/blob/master/scRNAseq_Mouse/R/scRNAseq_Braun_etal_Immunity_Script.Rmd)
-
-[Introduction to scRNA-seq integration](https://satijalab.org/seurat/articles/integration_introduction.html)
-
-[Using dittoSeq to visualize (sc)RNAseq data](https://bioconductor.org/packages/devel/bioc/vignettes/dittoSeq/inst/doc/dittoSeq.html)
-
-[Setup a Seurat object, add the RNA and protein data](https://satijalab.org/seurat/articles/multimodal_vignette.html)
-
-[scRNA-seq/lessons](https://github.com/hbctraining/scRNA-seq/tree/master/lessons)
-
-[How to solve Error: cannot allocate vector of size 1.2 Gb in R?](https://www.researchgate.net/post/How_to_solve_Error_cannot_allocate_vector_of_size_12_Gb_in_R)
-
+#### Programmer: Lun-Hsien Chang
 
 ```R
 dir.C <- "C:"
@@ -1065,5 +1042,27 @@ Seurat::FeaturePlot(object=merged_seurat
 
     
 ![png](Bald-scRNAseq-HNSCC.R_images/Bald-scRNAseq-HNSCC.R_41_2.png)
+
+#### Reference
+
+[Chapter 3 Heatmap Annotations](https://jokergoo.github.io/ComplexHeatmap-reference/book/heatmap-annotations.html)
+
+[Changing R plot options in Jupyter](https://notebook.community/andrie/jupyter-notebook-samples/Changing%20R%20plot%20options%20in%20Jupyter)
+
+[Changing R plot options in Jupyter](https://notebook.community/andrie/jupyter-notebook-samples/Changing%20R%20plot%20options%20in%20Jupyter)
+
+[Using a new windows version of R in Jupyter notebooks](https://stackoverflow.com/questions/51647561/using-a-new-windows-version-of-r-in-jupyter-notebooks)
+
+[scRNAseq_Braun_etal_Immunity_Script.Rmd](https://github.com/BaldLab/2020_Braun_et_al_CD226_Immunity/blob/master/scRNAseq_Mouse/R/scRNAseq_Braun_etal_Immunity_Script.Rmd)
+
+[Introduction to scRNA-seq integration](https://satijalab.org/seurat/articles/integration_introduction.html)
+
+[Using dittoSeq to visualize (sc)RNAseq data](https://bioconductor.org/packages/devel/bioc/vignettes/dittoSeq/inst/doc/dittoSeq.html)
+
+[Setup a Seurat object, add the RNA and protein data](https://satijalab.org/seurat/articles/multimodal_vignette.html)
+
+[scRNA-seq/lessons](https://github.com/hbctraining/scRNA-seq/tree/master/lessons)
+
+[How to solve Error: cannot allocate vector of size 1.2 Gb in R?](https://www.researchgate.net/post/How_to_solve_Error_cannot_allocate_vector_of_size_12_Gb_in_R)
     
 
