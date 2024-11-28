@@ -1,3 +1,5 @@
+###### tags: #R #scRNA-seq #CITE-Seq #PCA #t-SNE #UMAP
+
 # Single-Cell RNA Sequencing and CITE-Seq Analysis
 
 This repository contains resources and scripts for analyzing single-cell RNA sequencing (scRNA-seq) data, focusing on integrating RNA and surface protein expression data using Cellular Indexing of Transcriptomes and Epitopes by Sequencing (CITE-Seq). The primary goal is to provide reproducible workflows for scRNA-seq data analysis with practical insights into handling biological datasets.
